@@ -1,3 +1,9 @@
+body {
+	font-family: monospace;
+	font-size: 18px;
+	font-weight: normal;
+}
+
 #canvas {
 	width: 320px;
 	height: 288px;
